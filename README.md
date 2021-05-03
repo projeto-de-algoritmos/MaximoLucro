@@ -17,9 +17,11 @@ Um Freelancer decidiu desenvolveu um aplicativo para organizar sua agenda de tra
 ![Image2](assets/print2.png)
 ![Image3](assets/print3.png)
 
+![Apresentacao](assets/PD_apresentacao.mp4)
+
 ## Instalação 
-**Linguagem**: C++<br>
+**Linguagem**: C<br>
 
 ## Uso 
-Compilar o arquivo main.c com o comando "g++ -o a.c main.c"
+Compilar o arquivo main.c com o comando "gcc main.c -o a.c"
 Executar o arquivo a.c com o comando "./a.c"
