@@ -1,45 +1,25 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Maximo Lucro
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 5<br>
+**Conteúdo da Disciplina**: Programacao Dinamica - Weighted interval Schedule<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0103200  |  Gabriel Alves Hussein |
+| 17/0164411  |  Victor Amaral Cerqueira |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Um Freelancer decidiu desenvolveu um aplicativo para organizar sua agenda de trabalho, o objetivo do app eh retornar para o usuario qual seria seu lucro maximo de acordo com os trabalhos disponiveis para ele realizar, assim como quais trabalhos estariam envolvidos em seu lucro maximo.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+![Image1](assets/print1.png)
+![Image2](assets/print2.png)
+![Image3](assets/print3.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+Compilar o arquivo main.c com o comando "g++ -o a.c main.c"
+Executar o arquivo a.c com o comando "./a.c"
